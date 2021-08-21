@@ -1,0 +1,12 @@
+[submodule "quarkusRest"]
+	path = quarkusRest
+	url = https://github.com/stebbinscp/quarkusRest
+	branch = master
+[submodule "EmailApi2"]
+	path = EmailApi2
+	url = https://github.com/stebbinscp/EmailApi2
+	branch = master
+[submodule "movieVaadinV2"]
+	path = movieVaadinV2
+	url = https://github.com/stebbinscp/movieVaadinV2.git
+	branch = main
